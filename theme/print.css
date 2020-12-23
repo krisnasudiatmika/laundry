@@ -1,0 +1,18 @@
+
+/* menyembunyikan tombol aksi */
+.action {
+	display: none;
+}
+
+/* memberikan border pada tabel */
+body{font-family: Calibri;padding-left: 6px;}
+.table td {font-weight: bold;}
+.table {width: 385px;text-align: left; font-family:  !important;letter-spacing: 1px}
+.table {border-top: 1px solid #000; border-bottom: 1px solid #000;font-size: 14px; letter-spacing: 1px}
+.table_header {width:385px;font-size: 12px;margin-top: 130px;font-family: Calibri;letter-spacing: 1px;font-weight: bold;}
+.text_kecil {font-size: 12px;font-family: sans-serif !important;position: absolute;top: 710px;letter-spacing: 1px}
+.text_penerima{margin-bottom: 50px;position: absolute;top: 630px; font-family: "Times New Roman", Times, serif;letter-spacing: 1px;font-size: 12px}
+table{border-collapse:collapse}
+tr.hide_one{border-bottom:thin solid;border-top:thin solid}
+.right{text-align: right;}
+.table_atas {font-size: 12px;font-family: Calibri;letter-spacing: 1px;font-weight: bold;}

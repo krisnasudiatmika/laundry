@@ -1,0 +1,53 @@
+body{
+	font-family: sans-serif;
+	letter-spacing: 2px;
+}
+.action {
+	display: none;
+}
+.table {
+	    border-top: 1px solid;
+	    border-bottom:  1px solid;
+	    margin-top: 20px;
+	    font-size: 11px;
+	    width: 100%;
+}
+.table td {
+	   
+	    
+}
+.tengah {
+	text-align: center;
+}
+.kiri{
+	text-align: left;
+}
+.grand_size{
+	font-size: 13px;
+	font-weight: bold;
+}
+.tempat_logo{
+	float: left;
+	width: 50%;
+}
+.right{
+	text-align: right;
+}
+.jn_enter{
+	display: block;
+}
+.logo{
+	    float: left;
+    margin-right: 10px;
+}
+.logo img{
+	width: 100px;
+}
+.text{
+	font-size: 11px;
+    margin-top: 10px;
+}
+
+table{border-collapse:collapse}
+tr.hide_one{border-top:thin solid;}
+tr.border_bawah{border-bottom: thin solid}

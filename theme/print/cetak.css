@@ -1,0 +1,42 @@
+.hide{
+  display: none;
+}
+th{
+  display: table-cell;
+  vertical-align: inherit;
+  font-weight: bold;
+  text-align: -internal-center;
+}
+table{
+  width: 100%;
+  text-align: center;
+  font-family: Calibri;
+  font-size: 14px;
+}
+tr.grand{border-bottom:thin solid;border-top:thin solid}
+th{border-bottom:thin solid;border-top:thin solid}
+table{border-collapse:collapse}
+body{font-family: Calibri;padding-left: 6px;}
+.kiri{
+  text-align: left;
+}
+.kanan{
+  text-align: right;
+}
+.laundry{
+  float:left;
+  padding-top: 10px;
+}
+.text_kanan{
+  float: right;
+  text-align: right;
+  padding-top: 10px;
+}
+.logo{
+  float: left;
+  margin-right: 10px;
+
+}
+.logo img{
+  width: 150px;
+}
